@@ -1,0 +1,29 @@
+{
+  "name": "MantenimientoTablasMaestras",
+  "fields": [
+    {
+      "fieldName": "tecnicaEvaluativa",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [
+    {
+      "relationshipType": "many-to-one",
+      "otherEntityName": "editarRegistrarFuente",
+      "otherEntityRelationshipName": "mantenimientoTablasMaestras",
+      "relationshipName": "operaciones",
+      "otherEntityField": "id"
+    }
+  ],
+  "changelogDate": "20201130025816",
+  "entityTableName": "mantenimiento_tablas_maestras",
+  "dto": "no",
+  "pagination": "infinite-scroll",
+  "service": "serviceImpl",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "clientRootFolder": "",
+  "applications": "*"
+}

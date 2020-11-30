@@ -1,0 +1,30 @@
+{
+  "name": "EditarRegistrarFuente",
+  "fields": [
+    {
+      "fieldName": "codigo",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "descripcion",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "estado",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "changelogDate": "20201130025716",
+  "javadoc": "not an ignored comment",
+  "entityTableName": "editar_registrar_fuente",
+  "dto": "no",
+  "pagination": "pagination",
+  "service": "serviceImpl",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "clientRootFolder": "",
+  "applications": "*"
+}

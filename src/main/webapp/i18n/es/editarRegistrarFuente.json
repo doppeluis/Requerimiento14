@@ -1,0 +1,24 @@
+{
+  "requerimiento14App": {
+    "editarRegistrarFuente": {
+      "home": {
+        "title": "Editar Registrar Fuentes",
+        "createLabel": "Crear nuevo Editar Registrar Fuente",
+        "createOrEditLabel": "Crear o editar Editar Registrar Fuente",
+        "notFound": "Ningún Editar Registrar Fuentes encontrado"
+      },
+      "created": "Un nuevo Editar Registrar Fuente ha sido creado con el identificador {{ param }}",
+      "updated": "Un Editar Registrar Fuente ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Editar Registrar Fuente ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Editar Registrar Fuente {{ id }}?"
+      },
+      "detail": {
+        "title": "Editar Registrar Fuente"
+      },
+      "codigo": "Codigo",
+      "descripcion": "Descripcion",
+      "estado": "Estado"
+    }
+  }
+}

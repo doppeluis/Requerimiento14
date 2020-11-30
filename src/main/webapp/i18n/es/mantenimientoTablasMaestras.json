@@ -1,0 +1,23 @@
+{
+  "requerimiento14App": {
+    "mantenimientoTablasMaestras": {
+      "home": {
+        "title": "Mantenimiento Tablas Maestras",
+        "createLabel": "Crear nuevo Mantenimiento Tablas Maestras",
+        "createOrEditLabel": "Crear o editar Mantenimiento Tablas Maestras",
+        "notFound": "Ningún Mantenimiento Tablas Maestras encontrado"
+      },
+      "created": "Un nuevo Mantenimiento Tablas Maestras ha sido creado con el identificador {{ param }}",
+      "updated": "Un Mantenimiento Tablas Maestras ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Mantenimiento Tablas Maestras ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Mantenimiento Tablas Maestras {{ id }}?"
+      },
+      "detail": {
+        "title": "Mantenimiento Tablas Maestras"
+      },
+      "tecnicaEvaluativa": "Tecnica Evaluativa",
+      "operaciones": "Operaciones"
+    }
+  }
+}
